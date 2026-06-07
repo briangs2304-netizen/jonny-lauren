@@ -31,11 +31,12 @@ Instead of carving a piece of foam, I thought that since there’s a 3D printer 
 
 ![CAD model 1](images/box_CAD_1.jpg)
 ![CAD model 2](images/box_CAD_2.jpg)
-![Pieces in the case](images/box_with_bottle.jpg)
+![Pieces in the case](images/box_with_cups.jpg)
 
 ### 7. Final Touches
 I thought about staining the box, but eventually decided to minimize the risk and just finish it with linseed oil. The box does look better after 3 rounds of thin coating of oil. I also wanted to engrave the QR code to link to this documentation, so I went to the CBA shop and played with F1 Ultra. I did a quick test for power and speed, and decided to go with 90% power at a speed of 400 mm/s. The engraving worked pretty well! Some parts are lighter than others, which is probably due to the uneven coating of oil. In hindsight, I should probably apply the oil after engraving. At least the QR code works. I was doing this on June 5, right before I left for my 4:40 pm flight to SFO actually. As I’m writing this, I’m on the plane, seat 20E to be exact if you’re curious. There’s one thing left, which I almost have time to finish in the shop, but figuring out where to host this page took some unexpected time. The lid needs a latch to hold it in place. I plan to work with whatever materials I have, and I got some weak magnets and repurposed strips of cloth from a cap in the CBA shop, from which I will make a latch tonight in our Airbnb in Sonoma. I hope it works! (Update: turns out the magnet is way too weak, and I improvised something with the strips of fabric themselves)
 
+![Box with oil finish](images/oil.jpg)
 ![Testing Laser Cutter](images/test_Laser.jpg)
 ![Engraved](images/engraved.jpg)
 
