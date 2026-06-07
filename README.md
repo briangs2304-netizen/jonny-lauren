@@ -8,7 +8,7 @@ I had this idea of making a set of something even before I started the ceramics 
 
 I threw the sake bottle first on March 4, since it seems more challenging to me. I made 2 attempts that day, each starting with around 1.5lb of white clay, and preferred the shape of the taller one. I also attempted to throw an even taller one using a stick to reach deep inside and pull up the clay that way, but the new technique was too hard for me and it didn’t work out. So I sticked with this shorter, wider design, which I still think is cute. As for the cups, initially I really wanted to challenge myself to create two identical ones as I have never done that, but it turned out to still be too hard for my current skill level lol. Since these cups are tiny and would be near impossible to center individually, it’s better to first center a huge lump of clay and then pinch out tiny amounts to throw with. This made starting from the same amount of clay challenging, and my gestures are not that consistent anyways, so after a few tiny cups I decided that I’m not ready for identical cups yet. This is the kind of things that I didn’t know is impressive when I started, as larger bowls and taller vases have always caught my eyes more than eight identical humble looking mugs, but now I know. Everyone is unique anyway, and cups should also all have their own characters!
 
-![Wet Clay](images/wetclay.jpg | width=100)
+![Wet Clay](images/wetclay.jpg)
 
 ### 3. Trimming
 I covered the wet clay in plastic sheets and waited around a week for it to dry until leather hard for trimming. Trimming of the bottle happened on March 11, and it went smoothly though I was pretty stressed. I didn’t change the shape much, just thinning down the wall and smoothing out the edges. Since there’s no room to trim a foot, I sculpted out some of the bottom clay and tapped it inward to create the concave shape that will make it stand more stably after firing. The cups were also lightly trimmed the other day, and for these I made sure to trim out nice feet that define the form of tiny sake cups, which I’m pretty proud of. I started with five cups, but two of them were ruined during the making of the foot, so I’m left with three. In the end, I still managed to find two that look best with each other. After signing off my initials on the bottom, it’s now ready for bisque firing. 
@@ -48,10 +48,15 @@ Given that I’m making this page, I might as well include the making of that ol
 
 This was my second time making a car with ceramics, and I made some changes to the process. Last time, I hand-rolled the wheels but was not too satisfied with the roundness of them. This time, I tried throwing a column, and then slice it up once it’s slightly dried. I also threw a tiny bowl as the collection bin. The rest of the parts were assembled from carved pieces out of a slab that I rolled. The wheels turned out to be much rounder than last time, but I still encountered the issue of not being able to stick the axle perpendicular and center to the wheel. Additionally, I should’ve connected the axles of both sides so that they don’t sag toward the center. The rotating base and the socket should also have been cut out from the same piece of clay to fit better. Many issues aside, it’s still the coolest piece that I’ve made and I’m glad I forced my way into the history of Whole Earth Robotics. 
 
-![Olive Car 1](images/olive1.jpg)
-![Olive Car 2](images/olive2.jpg)
-![Olive Car 3](images/olive3.jpg)
-![Olive Car 4](images/olive4.jpg)
-![Happy Bois](images/boys.jpg)
+![Trowing the wheels](images/wheels.jpg)
+![Parts](images/parts1.jpg)
+![More Parts](images/parts2.jpg)
+![Assembling](images/assembly.jpg)
+![Olive Car 1](images/olivecar1.jpg)
+![Olive Car 2](images/olivecar2.jpg)
+![Olive Car 3](images/olivecar3.jpg)
+![Olive Car 4](images/olivecar4.jpg)
+![Olive Car 4](images/olivecar5.jpg)
+![Happy Bois](images/happybois.jpg)
 
 
